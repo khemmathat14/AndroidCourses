@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml",
+        "outputFile": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 100
                 },
                 "from": {
-                    "file": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/src/main/res/values-w360dp/dimens.xml",
+                    "file": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/src/main/res/values-w360dp/dimens.xml",
                     "position": {
                         "startLine": 1,
                         "startColumn": 4,

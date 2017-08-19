@@ -5,39 +5,39 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="17291010522406"
-    token="8069494564246755223"
-    verifier="METHOD_ADDED" >
+    timestamp="41159572809104"
+    token="-5372897246953090596"
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="374" />
+        duration="424" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="55" />
+        duration="20" />
     <task
         name="verifier"
-        duration="27" />
+        duration="0" />
 
     <artifact
-        location="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        location="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
         type="DEX" />
 
     <build
-        timestamp="17131897060313"
+        timestamp="40544908049027"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/outputs/apk/app-debug.apk"
+            location="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="17291010522406"
-        verifier="METHOD_ADDED" >
+        timestamp="41159572809104"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            location="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
             type="DEX" />
     </build>
 

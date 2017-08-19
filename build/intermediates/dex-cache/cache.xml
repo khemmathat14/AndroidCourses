@@ -12,15 +12,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f0754f7aa857f7d9d4ea9df0d85fdbf2e3500a0d">
-        <dex dex="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cf0b2b953add5f90629b10df04dd1a8186e92429/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -36,6 +27,168 @@
         revision="25.0.2"
         sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
         <dex dex="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_58882106f2e5c603b797c1cffcb82f59e658ea32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a938abe149e44a7a8a222c5d3e3cdbf5c7d8c9ca">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bf1ba9df23f6f5a2f7a806f3a1d0a7cba2d5acf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_155332a22eea471ccd89345982c309f7e19674a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_f05f1c6ef28479afcdcb5f89914eacab90240636/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e390907f0adbf42b7808047d6b9db7dffb59c06b">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f5378bbd29b4e98dad6e8dcf8654fc9dbd5e735d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/exploded-aar/com.inthecheesefactory.thecheeselibrary/adjustable-imageview/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f4877a9f0a653e193bfb600379e4bfc8472be47">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.inthecheesefactory.thecheeselibrary-adjustable-imageview-1.0.0_cc598b60c917e7de30f49f7a7f79efe58aa371b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.3.1_fe4a00133f66678b95159ac7a05021df7ad6d15c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_4d80cc7f2d78628e8f41d8f1e38abc4b7d2a0118/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_e2860dee96966d9fc07705d57a667df78d564658/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_1bf24cddfa3d8927d58e836f4c6a3f5e9a7fe876/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_4ee558815db80f80dd2edb3c13f9b4cf0e9259a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_f771e3434163bef79aad4a20de6e3598cdeb06bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_c07811b7f328f437d7541760639a7471cac877d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_534476c52ccf6ab00858ce0d334b65803506c832/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_50b67fb32a4183b7e5e440dbb0f706de7928c3a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_a1784567fb7f47350bb2aac2de1611111603415d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.3.1_8261e2cddc28fca5cf783eb289674e4a2f455b0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Khemathat/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_ce1738997f8c27b78b67512f3468258d4d2fdd90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f0754f7aa857f7d9d4ea9df0d85fdbf2e3500a0d">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cf0b2b953add5f90629b10df04dd1a8186e92429/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,30 +219,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
-        <dex dex="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.3.1_fe4a00133f66678b95159ac7a05021df7ad6d15c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Khemathat/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
         <dex dex="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.3.0_29181fe31a7a9acd1038137b50acbe361d0422f8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_4d80cc7f2d78628e8f41d8f1e38abc4b7d2a0118/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -120,12 +255,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_752df3e1c9c029b5b4ba480c63da04c8633b2559/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/Khemathat/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
         <dex dex="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_02cddc0d79dd9e12975797db5d1f70d2bde2a8ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_a78f694034b748e24c6069e3611be8308c96dd9b/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -138,15 +291,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_4ee558815db80f80dd2edb3c13f9b4cf0e9259a5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Khemathat/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
         jumboMode="true"
         optimize="true"
@@ -156,39 +300,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jar="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_c07811b7f328f437d7541760639a7471cac877d8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_50b67fb32a4183b7e5e440dbb0f706de7928c3a4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_a1784567fb7f47350bb2aac2de1611111603415d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Khemathat/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_ce1738997f8c27b78b67512f3468258d4d2fdd90/classes.dex" />
+        <dex dex="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_b084de5ad9a9042263fea51a42010a086c60c2b1/classes.dex" />
     </item>
 
 </items>

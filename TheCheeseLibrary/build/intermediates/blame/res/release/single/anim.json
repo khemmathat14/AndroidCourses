@@ -20,6 +20,10 @@
         "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/TheCheeseLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_popup_enter.xml"
     },
     {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
         "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/TheCheeseLibrary/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
         "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/TheCheeseLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_slide_out_bottom.xml"
     },
@@ -28,15 +32,51 @@
         "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/TheCheeseLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_popup_exit.xml"
+    },
+    {
         "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/TheCheeseLibrary/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
         "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/TheCheeseLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/TheCheeseLibrary/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
         "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/TheCheeseLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
         "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/TheCheeseLibrary/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
         "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/TheCheeseLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/AndroidCourses/TheCheeseLibrary/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/anim/abc_slide_in_top.xml"
     }
 ]

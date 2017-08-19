@@ -1,7 +1,7 @@
-#Sat Aug 19 14:42:22 ICT 2017
-base.0=/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cf0b2b953add5f90629b10df04dd1a8186e92429
+#Sun Aug 20 01:40:35 ICT 2017
+base.0=/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bf1ba9df23f6f5a2f7a806f3a1d0a7cba2d5acf9
 renamed.1=classes2.dex
 renamed.0=classes.dex
-file.1=/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1931bf88ff6b105c4151e2bfa9f528224fc2d756/classes.dex
-base.1=/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1931bf88ff6b105c4151e2bfa9f528224fc2d756
-file.0=/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cf0b2b953add5f90629b10df04dd1a8186e92429/classes.dex
+file.1=/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f5378bbd29b4e98dad6e8dcf8654fc9dbd5e735d/classes.dex
+base.1=/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f5378bbd29b4e98dad6e8dcf8654fc9dbd5e735d
+file.0=/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bf1ba9df23f6f5a2f7a806f3a1d0a7cba2d5acf9/classes.dex
