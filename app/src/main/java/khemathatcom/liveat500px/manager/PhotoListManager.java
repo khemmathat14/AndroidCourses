@@ -1,8 +1,10 @@
 package khemathatcom.liveat500px.manager;
 
 import android.content.Context;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 
+import com.google.gson.Gson;
 import com.inthecheesefactory.thecheeselibrary.manager.Contextor;
 
 import java.util.ArrayList;
@@ -100,10 +102,25 @@ public class PhotoListManager {
     }
 
     private void saveCache(){
-        //TODO: Save Cache
+        PhotoItemCollectionDao cachesDao = new PhotoItemCollectionDao();
+        if (dao != null && dao.getData() != null)
+            cachesDao.setData(dao.getData().subList(0 , Math.min(20, dao.getData().size())));
+        String json = new Gson().toJson(cachesDao);
+
+        SharedPreferences prefs = mContext.getSharedPreferences("photos",
+                Context.MODE_PRIVATE);
+        SharedPreferences.Editor editor = prefs.edit();
+        //Add /Edit /Delete
+        editor.putString("json",json);
+        editor.apply();
     }
 
     private void loadCache(){
-        //TODO: Load Cache
+        SharedPreferences prefs = mContext.getSharedPreferences("photos",
+                Context.MODE_PRIVATE);
+        String json = prefs.getString("json", null);
+        if (json == null)
+            return;
+        dao = new Gson().fromJson(json , PhotoItemCollectionDao.class);
     }
 }

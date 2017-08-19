@@ -1,6 +1,7 @@
 package khemathatcom.liveat500px.fragment;
 
 import android.content.Context;
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -13,6 +14,7 @@ import android.view.ViewGroup;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.AbsListView;
+import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.ListAdapter;
 import android.widget.ListView;
@@ -26,8 +28,10 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 import khemathatcom.liveat500px.R;
+import khemathatcom.liveat500px.activity.MoreInfoActivity;
 import khemathatcom.liveat500px.adapter.PhotoListAdapter;
 import khemathatcom.liveat500px.dao.PhotoItemCollectionDao;
+import khemathatcom.liveat500px.dao.PhotoItemDao;
 import khemathatcom.liveat500px.datatype.MutableInteger;
 import khemathatcom.liveat500px.manager.HttpManager;
 import khemathatcom.liveat500px.manager.PhotoListManager;
@@ -44,6 +48,11 @@ public class MainFragment extends Fragment {
     /*************
      * Variables
      *************/
+
+    public interface FragmentListener{
+        void onPhotoItemClicked(PhotoItemDao dao);
+    }
+
     ListView listview;
     PhotoListAdapter listAdapter;
     PhotoListManager photoListManager;
@@ -110,6 +119,8 @@ public class MainFragment extends Fragment {
         listAdapter = new PhotoListAdapter(lastPositionInteger);
         listAdapter.setDao(photoListManager.getDao());
         listview.setAdapter(listAdapter);
+
+        listview.setOnItemClickListener(listViewItemListener);
 
         swipeRefreshLayout = (SwipeRefreshLayout) rootView.findViewById(R.id.swipeRefreshLayout);
         swipeRefreshLayout.setOnRefreshListener(pullToRefreshListener);
@@ -267,6 +278,18 @@ public class MainFragment extends Fragment {
 
 
 
+        }
+    };
+
+
+    final AdapterView.OnItemClickListener listViewItemListener = new AdapterView.OnItemClickListener() {
+        @Override
+        public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+            if(position < photoListManager.getCount()) {
+                PhotoItemDao dao = photoListManager.getDao().getData().get(position);
+                FragmentListener listner = (FragmentListener) getActivity();
+                listner.onPhotoItemClicked(dao);
+            }
         }
     };
 
