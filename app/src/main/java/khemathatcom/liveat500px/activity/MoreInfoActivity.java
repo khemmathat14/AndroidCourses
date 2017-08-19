@@ -1,5 +1,6 @@
 package khemathatcom.liveat500px.activity;
 
+import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MenuItem;
@@ -8,6 +9,8 @@ import khemathatcom.liveat500px.R;
 import khemathatcom.liveat500px.fragment.MoreInfoFragment;
 
 public class MoreInfoActivity extends AppCompatActivity {
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,6 +29,8 @@ public class MoreInfoActivity extends AppCompatActivity {
     private void initInstances() {
         getSupportActionBar().setHomeButtonEnabled(true);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
+
     }
 
     @Override

@@ -1,4 +1,4 @@
-#Sat Aug 19 14:42:22 ICT 2017
+#Sat Aug 19 23:38:24 ICT 2017
 base.0=/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cf0b2b953add5f90629b10df04dd1a8186e92429
 renamed.1=classes2.dex
 renamed.0=classes.dex

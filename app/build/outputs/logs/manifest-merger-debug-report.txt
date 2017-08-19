@@ -19,8 +19,6 @@ ADDED from /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/src/main/Andro
 		ADDED from /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/src/main/AndroidManifest.xml:5:22-64
 application
 ADDED from /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/src/main/AndroidManifest.xml:7:5-28:19
-MERGED from [com.android.support:cardview-v7:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/AndroidManifest.xml:26:5-20
-MERGED from [LiveAt500px:TheCheeseLibrary:unspecified] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/LiveAt500px/TheCheeseLibrary/unspecified/AndroidManifest.xml:11:5-14:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/AndroidManifest.xml:29:5-20
@@ -30,7 +28,7 @@ MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Khemathat/And
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/AndroidManifest.xml:29:5-20
-MERGED from [com.inthecheesefactory.thecheeselibrary:adjustable-imageview:1.0.0] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.inthecheesefactory.thecheeselibrary/adjustable-imageview/1.0.0/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/AndroidManifest.xml:26:5-20
 	android:label
 		ADDED from /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/src/main/AndroidManifest.xml:11:9-41
 	android:supportsRtl
@@ -71,8 +69,6 @@ ADDED from /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/src/main/Andro
 		ADDED from /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/src/main/AndroidManifest.xml:26:19-60
 uses-sdk
 INJECTED from /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:cardview-v7:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/AndroidManifest.xml:20:5-43
-MERGED from [LiveAt500px:TheCheeseLibrary:unspecified] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/LiveAt500px/TheCheeseLibrary/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/AndroidManifest.xml:21:5-23:60
@@ -82,7 +78,7 @@ MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Khemathat/And
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-compat:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/AndroidManifest.xml:21:5-23:58
-MERGED from [com.inthecheesefactory.thecheeselibrary:adjustable-imageview:1.0.0] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.inthecheesefactory.thecheeselibrary/adjustable-imageview/1.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/AndroidManifest.xml:20:5-43
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
@@ -92,8 +88,7 @@ MERGED from [com.inthecheesefactory.thecheeselibrary:adjustable-imageview:1.0.0]
 		INJECTED from /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:cardview-v7:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-v4:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-fragment:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/AndroidManifest.xml:25:5-27:34
@@ -102,7 +97,8 @@ MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Khemathat/And
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-compat:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/AndroidManifest.xml:22:5-24:34
 	android:value
-		ADDED from [com.android.support:cardview-v7:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/AndroidManifest.xml:24:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:cardview-v7:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/AndroidManifest.xml:23:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:26:9-47

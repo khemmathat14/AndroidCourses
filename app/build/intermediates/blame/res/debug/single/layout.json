@@ -4,16 +4,100 @@
         "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_template_part_chronometer.xml"
     },
     {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/fragment_more_info.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/src/main/res/layout/fragment_more_info.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/fragment_tags_summary.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/src/main/res/layout/fragment_tags_summary.xml"
+    },
+    {
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
         "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_screen_simple.xml"
     },
     {
         "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
         "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_template_media_custom.xml"
     },
     {
         "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
@@ -26,14 +110,6 @@
     {
         "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
         "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_screen_toolbar.xml"
     },
     {
         "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
@@ -68,32 +144,16 @@
         "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/src/main/res/layout/activity_more_info.xml"
     },
     {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_dialog_title_material.xml"
-    },
-    {
         "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
         "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_template_media.xml"
-    },
-    {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_menu_item_layout.xml"
     },
     {
         "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
         "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_menu_layout.xml"
-    },
-    {
         "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/sample_layout.xml",
         "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/LiveAt500px/TheCheeseLibrary/unspecified/res/layout/sample_layout.xml"
-    },
-    {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_select_dialog_material.xml"
     },
     {
         "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
@@ -104,36 +164,12 @@
         "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_template_icon_group.xml"
     },
     {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_activity_chooser_view.xml"
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/fragment_photo_summary.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/src/main/res/layout/fragment_photo_summary.xml"
     },
     {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/select_dialog_item_material.xml"
-    },
-    {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/src/main/res/layout/fragment_main.xml"
-    },
-    {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_template_lines_media.xml"
-    },
-    {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_template_part_time.xml"
-    },
-    {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/fragment_more_info.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/src/main/res/layout/fragment_more_info.xml"
+        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/fragment_info_summary.xml",
+        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/src/main/res/layout/fragment_info_summary.xml"
     },
     {
         "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/list_item_photo.xml",
@@ -144,28 +180,8 @@
         "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_action_tombstone.xml"
-    },
-    {
         "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_screen_content_include.xml"
-    },
-    {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
         "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
@@ -174,10 +190,6 @@
     {
         "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_mode_bar.xml"
     },
     {
         "merged": "/Users/Khemathat/AndroidStudioProjects/LiveAt500px/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
