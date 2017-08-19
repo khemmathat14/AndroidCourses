@@ -6,8 +6,14 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
+import android.widget.TextView;
+
+import com.bumptech.glide.Glide;
+import com.bumptech.glide.load.engine.DiskCacheStrategy;
 
 import khemathatcom.liveat500px.R;
+import khemathatcom.liveat500px.dao.PhotoItemDao;
 
 
 /**
@@ -15,13 +21,19 @@ import khemathatcom.liveat500px.R;
  */
 public class PhotoSummaryFragment extends Fragment {
 
+    PhotoItemDao dao;
+    ImageView ivImg;
+    TextView tvName;
+    TextView tvDescription;
+
     public PhotoSummaryFragment() {
         super();
     }
 
-    public static PhotoSummaryFragment newInstance() {
+    public static PhotoSummaryFragment newInstance(PhotoItemDao dao) {
         PhotoSummaryFragment fragment = new PhotoSummaryFragment();
         Bundle args = new Bundle();
+        args.putParcelable("dao",dao);
         fragment.setArguments(args);
         return fragment;
     }
@@ -30,6 +42,8 @@ public class PhotoSummaryFragment extends Fragment {
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         init(savedInstanceState);
+
+        dao = getArguments().getParcelable("dao");
 
         if (savedInstanceState != null)
             onRestoreInstanceState(savedInstanceState);
@@ -53,6 +67,18 @@ public class PhotoSummaryFragment extends Fragment {
         // Init 'View' instance(s) with rootView.findViewById here
         // Note: State of variable initialized here could not be saved
         //       in onSavedInstanceState
+
+        ivImg = (ImageView) rootView.findViewById(R.id.ivImg);
+        tvName = (TextView) rootView.findViewById(R.id.tvName);
+        tvDescription = (TextView) rootView.findViewById(R.id.tvDesciption);
+
+        tvName.setText(dao.getCaption());
+        tvDescription.setText(dao.getUserName() + "\n" +dao.getCamera());
+        Glide.with(PhotoSummaryFragment.this)
+                .load(dao.getImageUrl())
+                .placeholder(R.drawable.loading)
+                .diskCacheStrategy(DiskCacheStrategy.ALL)
+                .into(ivImg);
     }
 
     @Override

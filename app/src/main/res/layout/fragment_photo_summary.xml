@@ -4,6 +4,7 @@
     android:layout_height="match_parent">
 
     <ImageView
+        android:src="@drawable/loading"
         android:id="@+id/ivImg"
         android:scaleType="centerCrop"
         android:layout_width="match_parent"
@@ -39,9 +40,6 @@
 
     </LinearLayout>
 
-    <View
-        android:background="@drawable/selector_overlay"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+
 
 </RelativeLayout>
