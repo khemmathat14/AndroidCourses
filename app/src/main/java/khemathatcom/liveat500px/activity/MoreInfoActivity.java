@@ -2,6 +2,7 @@ package khemathatcom.liveat500px.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Menu;
 import android.view.MenuItem;
 
 import khemathatcom.liveat500px.R;
@@ -31,6 +32,7 @@ public class MoreInfoActivity extends AppCompatActivity {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
 
+
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         if (item.getItemId() == android.R.id.home){
@@ -39,4 +41,7 @@ public class MoreInfoActivity extends AppCompatActivity {
         }
         return super.onOptionsItemSelected(item);
     }
+
+
+
 }

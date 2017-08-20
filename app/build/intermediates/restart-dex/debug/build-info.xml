@@ -2,65 +2,43 @@
 <instant-run
     abi="x86"
     api-level="25"
-    density="560dpi"
+    density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="44408928893685"
+    timestamp="50241976070769"
     token="-5372897246953090596"
-    verifier="FIELD_ADDED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="691" />
+        duration="548" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="24" />
     <task
         name="instant-run-transform"
-        duration="174" />
+        duration="41" />
     <task
         name="verifier"
-        duration="10" />
+        duration="3" />
 
     <artifact
-        location="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-        type="DEX" />
+        location="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
     <build
-        timestamp="42459539241717"
+        timestamp="49848172203618"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="42795703227039"
-        verifier="R_CLASS_CHANGE" >
+        timestamp="50241976070769"
+        verifier="COMPATIBLE" >
         <artifact
-            location="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="44408928893685"
-        verifier="FIELD_ADDED" >
-        <artifact
-            location="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
+            location="/Users/Khemathat/AndroidStudioProjects/AndroidCourses/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>
